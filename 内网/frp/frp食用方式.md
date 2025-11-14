@@ -8,22 +8,22 @@ https://github.com/fatedier/frp.git
 
 linux-amd64：
 
-https://github.com/fatedier/frp/releases/download/v0.52.0/frp_0.52.0_linux_amd64.tar.gz
+https://github.com/fatedier/frp/releases/download/v0.51.3/frp_0.51.3_linux_amd64.tar.gz
 
 下载命令：
 
 ```bash
-curl -L -O https://github.com/fatedier/frp/releases/download/v0.52.0/frp_0.52.0_linux_amd64.tar.gz
+curl -L -O https://github.com/fatedier/frp/releases/download/v0.51.3/frp_0.51.3_linux_amd64.tar.gz
 ```
 
 windows-amd64：
 
-https://github.com/fatedier/frp/releases/download/v0.52.0/frp_0.52.0_windows_amd64.zip
+https://github.com/fatedier/frp/releases/download/v0.51.3/frp_0.51.3_windows_amd64.zip
 
 下载命令：
 
 ```bash
-curl -L -O https://github.com/fatedier/frp/releases/download/v0.52.0/frp_0.52.0_windows_amd64.zip
+curl -L -O https://github.com/fatedier/frp/releases/download/v0.51.3/frp_0.51.3_windows_amd64.zip
 ```
 
 
@@ -126,7 +126,7 @@ ssh 192.168.10.129 -p 6000 -l <内网服务器用户>
 
 效果：
 
-![image-20251113230054550](C:%5CUsers%5Cchuxue%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20251113230054550.png)
+![image-20251113230054550](https://cdn.jsdelivr.net/gh/wudiloveyh/my-image-bucket@main/images/20251114184829896.png)
 
 ## 添加为系统服务
 
